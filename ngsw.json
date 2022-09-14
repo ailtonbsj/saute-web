@@ -1,0 +1,117 @@
+{
+  "configVersion": 1,
+  "timestamp": 1663125148861,
+  "index": "/saute-web-app/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/saute-web-app/10.d4cc984950c1e14f.js",
+        "/saute-web-app/159.3af6eef0e9a76846.js",
+        "/saute-web-app/160.0a35f8e8015eb7cb.js",
+        "/saute-web-app/20.33d1cfaffb21ab65.js",
+        "/saute-web-app/217.ccd1289320c6555d.js",
+        "/saute-web-app/234.58de485ccafaeaa8.js",
+        "/saute-web-app/319.e5f8af8f9db7d9ad.js",
+        "/saute-web-app/489.49144a6fdad927de.js",
+        "/saute-web-app/735.19423ffa6aa23682.js",
+        "/saute-web-app/846.1e89cafd87d2aeda.js",
+        "/saute-web-app/868.33a6c195acfb2429.js",
+        "/saute-web-app/common.014b9a898c658fa2.js",
+        "/saute-web-app/favicon.ico",
+        "/saute-web-app/index.html",
+        "/saute-web-app/main.d931ad0d3237a948.js",
+        "/saute-web-app/manifest.webmanifest",
+        "/saute-web-app/polyfills.d347ea2c24b2c88f.js",
+        "/saute-web-app/runtime.b05e90f1a53e0a5e.js",
+        "/saute-web-app/styles.db1f0dc40dd8c48c.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/saute-web-app/assets/brazil/cities.json",
+        "/saute-web-app/assets/brazil/states.json",
+        "/saute-web-app/assets/icons/icon-128x128.png",
+        "/saute-web-app/assets/icons/icon-144x144.png",
+        "/saute-web-app/assets/icons/icon-152x152.png",
+        "/saute-web-app/assets/icons/icon-192x192.png",
+        "/saute-web-app/assets/icons/icon-384x384.png",
+        "/saute-web-app/assets/icons/icon-512x512.png",
+        "/saute-web-app/assets/icons/icon-72x72.png",
+        "/saute-web-app/assets/icons/icon-96x96.png",
+        "/saute-web-app/assets/logo1.png",
+        "/saute-web-app/assets/logo2.png",
+        "/saute-web-app/assets/print.html",
+        "/saute-web-app/assets/user.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/saute-web-app/10.d4cc984950c1e14f.js": "7f8c976933f204857be75719f078b0099c5c3303",
+    "/saute-web-app/159.3af6eef0e9a76846.js": "dce445c6c798115208ec7754493973dc83d7e024",
+    "/saute-web-app/160.0a35f8e8015eb7cb.js": "21e344deb701001daea3caed6b55182a95189997",
+    "/saute-web-app/20.33d1cfaffb21ab65.js": "2302fa73e61cd82c69239e73058d492e7011cc97",
+    "/saute-web-app/217.ccd1289320c6555d.js": "fd70945d081844258db72177487b399d0284b187",
+    "/saute-web-app/234.58de485ccafaeaa8.js": "b611c959569cd528d5422c7b7b36743daa58b8f3",
+    "/saute-web-app/319.e5f8af8f9db7d9ad.js": "5fcadc4bad69eb9a3cad81b508c51fa44e147893",
+    "/saute-web-app/489.49144a6fdad927de.js": "25d170ee38d8f43c3ff6da108735a4d3e2d8ea68",
+    "/saute-web-app/735.19423ffa6aa23682.js": "d904b9e0499c8bea5faee8a356a44349b0573b34",
+    "/saute-web-app/846.1e89cafd87d2aeda.js": "6abd39784afb1d9f805cabb33f31aa22b7bb614b",
+    "/saute-web-app/868.33a6c195acfb2429.js": "556602df7f268f73e87493592d9e3bc2f0c93b37",
+    "/saute-web-app/assets/brazil/cities.json": "a70288a65c46beb7a49be9f4904fb94c8989e6ec",
+    "/saute-web-app/assets/brazil/states.json": "5d99a38a7223482640be0ce4504ac3f4c0ec3357",
+    "/saute-web-app/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/saute-web-app/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/saute-web-app/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/saute-web-app/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/saute-web-app/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/saute-web-app/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/saute-web-app/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/saute-web-app/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/saute-web-app/assets/logo1.png": "03d751532b26c6eada2fe023d4bc4bba0ac07795",
+    "/saute-web-app/assets/logo2.png": "6726f220f90d3758dd17cf63649aa32ff4913a60",
+    "/saute-web-app/assets/print.html": "965b675e83130e150baac5760118428faffa3439",
+    "/saute-web-app/assets/user.png": "32454dfa1af07952738c877992eff9d975c36b94",
+    "/saute-web-app/common.014b9a898c658fa2.js": "8a383636007a029040e0e1025341b881b008cfdc",
+    "/saute-web-app/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/saute-web-app/index.html": "23c7b85811a0b5bc74e1443e41f3d53ab8b09133",
+    "/saute-web-app/main.d931ad0d3237a948.js": "48682d13d4cf14345128a7005f84df2a17b9f984",
+    "/saute-web-app/manifest.webmanifest": "0ce40ad958b5994326eccceaf1fd74a2b5420f00",
+    "/saute-web-app/polyfills.d347ea2c24b2c88f.js": "7fa2c9c85cc5d9e3ca282055388e0fa2b6941b1b",
+    "/saute-web-app/runtime.b05e90f1a53e0a5e.js": "e60e7225286288e84b4be1bf12bf12ec7d37d416",
+    "/saute-web-app/styles.db1f0dc40dd8c48c.css": "49c0d9f9822857c8ae7fd66cea458b84c631be93"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
